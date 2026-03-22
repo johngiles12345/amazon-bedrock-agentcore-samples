@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "strands-agents[a2a]>=1.28.0",
+    "chardet<6",
 ]
 
 [project.optional-dependencies]
