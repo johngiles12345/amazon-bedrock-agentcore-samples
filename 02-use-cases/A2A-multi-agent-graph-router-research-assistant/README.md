@@ -85,8 +85,8 @@ Tools are functional stubs returning structured placeholder data. Comments in ea
 ## Setup
 
 ```bash
-git clone git@ssh.gitlab.aws.dev:gilesjm/A2A-multi-agent-graph-router-research-assistant.git
-cd A2A-multi-agent-graph-router-research-assistant
+git clone https://github.com/awslabs/amazon-bedrock-agentcore-samples.git
+cd amazon-bedrock-agentcore-samples/02-use-cases/A2A-multi-agent-graph-router-research-assistant
 
 # Install dependencies
 uv sync
